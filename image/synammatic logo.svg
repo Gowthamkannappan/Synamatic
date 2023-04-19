@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="69.22" height="18.176" viewBox="0 0 69.22 18.176">
+  <g id="Group_6" data-name="Group 6" transform="translate(1.114)">
+    <g id="Group_1" data-name="Group 1" transform="translate(16.786 1.484)">
+      <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="7.604" cy="7.79" rx="7.604" ry="7.79" fill="#0303f8" opacity="0.8"/>
+      <circle id="Ellipse_5" data-name="Ellipse 5" cx="7.79" cy="7.79" r="7.79" transform="translate(17.063)" fill="#f80202" opacity="0.8"/>
+    </g>
+    <g id="Group_2" data-name="Group 2" transform="translate(14.189)">
+      <g id="Ellipse_2-2" data-name="Ellipse 2" transform="translate(0)" fill="none" stroke="#faf8f8" stroke-width="3" opacity="0.8">
+        <ellipse cx="8.902" cy="9.088" rx="8.902" ry="9.088" stroke="none"/>
+        <ellipse cx="8.902" cy="9.088" rx="7.402" ry="7.588" fill="none"/>
+      </g>
+      <g id="Ellipse_5-2" data-name="Ellipse 5" transform="translate(20.031)" fill="none" stroke="#faf8f8" stroke-width="3" opacity="0.8">
+        <ellipse cx="9.088" cy="9.088" rx="9.088" ry="9.088" stroke="none"/>
+        <ellipse cx="9.088" cy="9.088" rx="7.588" ry="7.588" fill="none"/>
+      </g>
+    </g>
+    <path id="Path_2" data-name="Path 2" d="M0,0H15.208" transform="translate(51.896 8.347) rotate(7)" fill="none" stroke="#d2d1d2" stroke-linecap="round" stroke-width="2"/>
+    <path id="Path_7" data-name="Path 7" d="M0,0H15.208" transform="translate(0 10.201) rotate(-7)" fill="none" stroke="#d2d1d2" stroke-linecap="round" stroke-width="2"/>
+  </g>
+</svg>

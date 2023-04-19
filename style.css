@@ -1,0 +1,157 @@
+body{
+    color: #fff;
+    background-color: #000;
+}
+.main-bg{
+    max-width: 100%;
+}
+.bgimg{
+    width: 100%;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+ .navbar{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    height: 5vh;
+ }
+
+ .navbar .search{
+    right: 1vw;
+ }
+
+ .navbar .mainlogo{
+    position :absolute;
+    left:5%;
+    line-height: 5%;
+    
+ }
+nav li {
+  margin-right: 20px;
+  position: relative;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+nav .dropdown-menu {
+  display: none;
+  position: absolute;
+  text-align: center;
+  top: 100%;
+  left: 0;
+  background-color: #3cca
+  ;
+  padding: 10px;
+  border: 1px solid #3cacac;
+}
+
+nav .dropdown:hover .dropdown-menu {
+  display: block;
+}
+/**************************** CARDS MAIN  *****************************/
+.newly_released {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 2rem;
+}
+
+
+.card {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: start;
+    position: relative;
+    width: 40vh;
+}
+
+.card .card-image {
+    width: 100%;
+    height: 100%;
+}
+
+.card .card-image img {
+    width: 100%;
+}
+
+.card .rating {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+.card .rating img{
+    width:2vw
+}
+
+.card .like {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+}
+
+.card .like img {
+    width: 5rem;
+}
+.trailer {
+    color: white;
+    background-color: black;
+    width:15vw;
+    border:none;
+    display: flex;
+    align-items: center;
+    border-radius: 100px;
+}
+.trailer img{
+    width: 1vw;
+    flex-basis: 25%;
+}
+.trailer p{
+    flex-basis: 75%;
+    text-align: center;
+}
+.trailer-button{
+    color: #fff;
+    background-color: grey;
+    width: 20vw;
+    border:none;
+    display: flex;
+    align-items: center;
+    border-radius: 10vw;
+    flex-basis: 40%;
+}
+.trailer-button img{
+    width: 3vw;
+    flex-basis: 25%;
+}
+.trailer-button p{
+    flex-basis: 75%;
+    text-align: center;
+}
+
+.card-footer {
+    display: flex;
+    justify-content: space-around;
+}
+
+.release {
+    display: flex;
+    justify-content: space-around;
+    max-width: 50%;
+    align-items: center;
+    
+}
+.bg-overlap{
+    max-width: 45vw;
+    position: relative;
+    bottom: 15vh;
+    left: 2vw;
+}
